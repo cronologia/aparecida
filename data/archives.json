@@ -1,0 +1,144 @@
+{
+  "generatedBy": "scripts/archive-refs.js",
+  "updatedAt": "2026-08-11",
+  "snapshots": {
+    "http://www.encontro2016.sp.anpuh.org/resources/anais/48/1462548314_ARQUIVO_ASANTANAFOTO.pdf": {
+      "refId": "lopes-anpuh-2016",
+      "archiveUrl": "https://web.archive.org/web/20240101045941/http://www.encontro2016.sp.anpuh.org/resources/anais/48/1462548314_ARQUIVO_ASANTANAFOTO.pdf",
+      "timestamp": "20240101045941",
+      "checkedAt": "2026-08-11"
+    },
+    "https://agenciabrasil.ebc.com.br/geral/noticia/2017-10/papa-francisco-rosa-de-ouro-santuario-300-anos-de-aparecida": {
+      "refId": "ebc-rosa-2017",
+      "archiveUrl": "https://web.archive.org/web/20251011175106/https://agenciabrasil.ebc.com.br/geral/noticia/2017-10/papa-francisco-rosa-de-ouro-santuario-300-anos-de-aparecida",
+      "timestamp": "20251011175106",
+      "checkedAt": "2026-08-11"
+    },
+    "https://diocesedepiracicaba.org.br/capa.asp?p=461": {
+      "refId": "piracicaba-historia",
+      "archiveUrl": "https://web.archive.org/web/20260116033558/https://diocesedepiracicaba.org.br/capa.asp?p=461",
+      "timestamp": "20260116033558",
+      "checkedAt": "2026-08-11"
+    },
+    "https://pt.wikipedia.org/wiki/Arquidiocese_de_Aparecida": {
+      "refId": "wiki-arqdiocese",
+      "archiveUrl": "https://web.archive.org/web/20251219005345/https://pt.wikipedia.org/wiki/Arquidiocese_de_Aparecida",
+      "timestamp": "20251219005345",
+      "checkedAt": "2026-08-11"
+    },
+    "https://pt.wikipedia.org/wiki/Catedral_Bas%C3%ADlica_de_Nossa_Senhora_Aparecida": {
+      "refId": "wiki-catedral-basilica",
+      "archiveUrl": "https://web.archive.org/web/20260517124218/https://pt.wikipedia.org/wiki/Catedral_Bas%C3%ADlica_de_Nossa_Senhora_Aparecida",
+      "timestamp": "20260517124218",
+      "checkedAt": "2026-08-11"
+    },
+    "https://pt.wikipedia.org/wiki/Nossa_Senhora_da_Concei%C3%A7%C3%A3o_Aparecida": {
+      "refId": "wiki-ns-aparecida",
+      "archiveUrl": "https://web.archive.org/web/20260630015830/https://pt.wikipedia.org/wiki/Nossa_Senhora_da_Concei%C3%A7%C3%A3o_Aparecida",
+      "timestamp": "20260630015830",
+      "checkedAt": "2026-08-11"
+    },
+    "https://pt.wikipedia.org/wiki/Rosa_de_Ouro_(condecora%C3%A7%C3%A3o)": {
+      "refId": "wiki-rosa-ouro",
+      "archiveUrl": "https://web.archive.org/web/20260726231139/https://pt.wikipedia.org/wiki/Rosa_de_Ouro_(condecora%C3%A7%C3%A3o)",
+      "timestamp": "20260726231139",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.a12.com/academia/artigos/por-que-nossa-senhora-aparecida-e-padroeira-do-brasil": {
+      "refId": "a12-padroeira",
+      "archiveUrl": "https://web.archive.org/web/20260421035128/https://www.a12.com/academia/artigos/por-que-nossa-senhora-aparecida-e-padroeira-do-brasil",
+      "timestamp": "20260421035128",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.a12.com/familiadosdevotos/revistadeaparecida/ha-120-anos-nossa-senhora-aparecida-recebeu-a-coroacao-pontificia": {
+      "refId": "a12-coroacao-120",
+      "archiveUrl": "https://web.archive.org/web/20250814210916/https://www.a12.com/familiadosdevotos/revistadeaparecida/ha-120-anos-nossa-senhora-aparecida-recebeu-a-coroacao-pontificia",
+      "timestamp": "20250814210916",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.a12.com/redentoristas/noticias/como-e-quando-os-missionarios-redentoristas-chegaram-a-aparecida": {
+      "refId": "a12-redentoristas-1894",
+      "archiveUrl": "https://web.archive.org/web/20250809000058/https://www.a12.com/redentoristas/noticias/como-e-quando-os-missionarios-redentoristas-chegaram-a-aparecida",
+      "timestamp": "20250809000058",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.a12.com/santuario/historia-de-nossa-senhora-aparecida-1717": {
+      "refId": "a12-historia-1717",
+      "archiveUrl": "https://web.archive.org/web/20260724154701/https://www.a12.com/santuario/historia-de-nossa-senhora-aparecida-1717",
+      "timestamp": "20260724154701",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.a12.com/santuario/historia-de-nossa-senhora-aparecida-1900": {
+      "refId": "a12-historia-1900",
+      "archiveUrl": "https://web.archive.org/web/20260311092132/https://www.a12.com/santuario/historia-de-nossa-senhora-aparecida-1900",
+      "timestamp": "20260311092132",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.a12.com/santuario/noticias/papa-paulo-vi-o-beato-que-ofereceu-a-primeira-rosa-de-ouro-ao-santuario-de-aparecida": {
+      "refId": "a12-rosa-paulovi",
+      "archiveUrl": "https://web.archive.org/web/20260417085023/https://www.a12.com/santuario/noticias/papa-paulo-vi-o-beato-que-ofereceu-a-primeira-rosa-de-ouro-ao-santuario-de-aparecida",
+      "timestamp": "20260417085023",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.a12.com/santuario/santuario-nacional-de-nossa-senhora-aparecida": {
+      "refId": "a12-santuario-construcao",
+      "archiveUrl": "https://web.archive.org/web/20260724154707/https://www.a12.com/santuario/santuario-nacional-de-nossa-senhora-aparecida",
+      "timestamp": "20260724154707",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.catholic-hierarchy.org/diocese/dapar.html": {
+      "refId": "ch-aparecida",
+      "archiveUrl": "https://web.archive.org/web/20260309022137/https://www.catholic-hierarchy.org/diocese/dapar.html",
+      "timestamp": "20260309022137",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.cnbb.org.br/papa-francisco-concede-terceira-rosa-de-ouro-ao-santuario-nacional/": {
+      "refId": "cnbb-rosa-2017",
+      "archiveUrl": "https://web.archive.org/web/20260606043348/https://www.cnbb.org.br/papa-francisco-concede-terceira-rosa-de-ouro-ao-santuario-nacional/",
+      "timestamp": "20260606043348",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.gazetadopovo.com.br/ideias/leia-o-relato-mais-antigo-sobre-o-milagre-de-nossa-senhora-aparecida/": {
+      "refId": "gazeta-relato",
+      "archiveUrl": "https://web.archive.org/web/20260710163624/https://www.gazetadopovo.com.br/ideias/leia-o-relato-mais-antigo-sobre-o-milagre-de-nossa-senhora-aparecida/",
+      "timestamp": "20260710163624",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.saopauloinfoco.com.br/restauro-nossa-senhora/": {
+      "refId": "spinfoco-restauro",
+      "archiveUrl": "https://web.archive.org/web/20220807222944/https://www.saopauloinfoco.com.br/restauro-nossa-senhora/",
+      "timestamp": "20220807222944",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.vatican.va/content/benedict-xvi/en/homilies/2007/documents/hf_ben-xvi_hom_20070513_conference-brazil.html": {
+      "refId": "bxvi-2007-homily",
+      "archiveUrl": "https://web.archive.org/web/20260416021610/https://www.vatican.va/content/benedict-xvi/en/homilies/2007/documents/hf_ben-xvi_hom_20070513_conference-brazil.html",
+      "timestamp": "20260416021610",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.vatican.va/content/francesco/en/homilies/2013/documents/papa-francesco_20130724_gmg-omelia-aparecida.html": {
+      "refId": "francis-2013-homily",
+      "archiveUrl": "https://web.archive.org/web/20251209211626/https://www.vatican.va/content/francesco/en/homilies/2013/documents/papa-francesco_20130724_gmg-omelia-aparecida.html",
+      "timestamp": "20251209211626",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.vatican.va/content/francesco/pt/messages/pont-messages/2017/documents/papa-francesco_20171012_videomessaggio-popolo-brasiliano.html": {
+      "refId": "francis-2017-message",
+      "archiveUrl": "https://web.archive.org/web/20260113220930/https://www.vatican.va/content/francesco/pt/messages/pont-messages/2017/documents/papa-francesco_20171012_videomessaggio-popolo-brasiliano.html",
+      "timestamp": "20260113220930",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.vatican.va/content/john-paul-ii/en/homilies/1980/documents/hf_jp-ii_hom_19800704_aparecida-brazil.html": {
+      "refId": "jpii-1980-homily",
+      "archiveUrl": "https://web.archive.org/web/20260607175453/https://www.vatican.va/content/john-paul-ii/en/homilies/1980/documents/hf_jp-ii_hom_19800704_aparecida-brazil.html",
+      "timestamp": "20260607175453",
+      "checkedAt": "2026-08-11"
+    },
+    "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html": {
+      "refId": "ddf-norms-2024",
+      "archiveUrl": "https://web.archive.org/web/20260810033236/https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html",
+      "timestamp": "20260810033236",
+      "checkedAt": "2026-08-11"
+    }
+  }
+}

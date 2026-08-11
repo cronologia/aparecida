@@ -1,0 +1,902 @@
+{
+  "meta": {
+    "title": "Nossa Senhora Aparecida — Chronology",
+    "subtitle": "Chronology of Nossa Senhora Aparecida — the image netted from the Paraíba do Sul in 1717, the devotion that grew around it, and the Church and state acts that honoured it, from the first chapel to the tercentenary",
+    "description": "An open, source-referenced chronology of Nossa Senhora Aparecida: the terracotta image of Our Lady of the Conception reportedly found by three fishermen in the Paraíba do Sul river in 1717, the devotion and national shrine that grew around it, and the coronations, titles, patronage decrees, golden roses and papal visits that honoured it.",
+    "language": "en",
+    "siteUrl": "https://cronologia.github.io/aparecida/",
+    "lastUpdated": "2026-08-11",
+    "dataQualityNote": "Work-in-progress dataset compiled from public sources (see references). There is no apparition in this case and no discernment judgment anywhere in it: what was found in 1717 was a statue, the finding is recorded here as a REPORTED event, and every subsequent Church act — coronation, basilica titles, the patronage decree, golden roses, consecrations — honours or regulates a devotion rather than adjudicating an event; honours are not findings, and this dataset never adds them up into one. The dating is carried honestly: the earliest surviving continuous account of the finding was written in August 1757, some forty years after the event, and opens 'No ano de 1719, pouco mais ou menos' ('in the year 1719, more or less'); the year 1717 is a historians' inference from the documented October 1717 passage of the Count of Assumar through Guaratinguetá, and no source attests a day — 12 October is a twentieth-century liturgical and civil convention. Several items — the 1901 petition details, the 1903 coronation grant, the 1967 golden-rose logistics, the foundation-stone story — rest on the Santuário's own media operation (A12) alone; A12 material is labeled official-devotional wherever cited. The text of the 16 July 1930 patronage decree is held offline in the Aparecida curia archive and no online primary text has been located. The CNBB's National Shrine declaration is dated 1984 by most secondaries and 1983 by the shrine's own page, and the dataset records the disagreement instead of resolving it. Contested size claims ('largest Marian shrine in the world') are attributed, never asserted. Single-source dates are flagged with a ? mark. Corrections against primary sources are welcome.",
+    "vizChips": [
+      {
+        "href": "#chronology",
+        "label": "📜 Chronology"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "label": "What it is",
+      "value": "A Brazilian Marian devotion centred on a small terracotta image of Our Lady of the Conception, reportedly netted from the Paraíba do Sul river at Guaratinguetá (São Paulo) in 1717. 'Aparecida' — 'she who appeared' — names the image, not a vision: nothing in this case was ever reported as an apparition. The image has been principal Patroness of Brazil since 1930 and is kept at the national shrine in the city that grew around it.",
+      "sources": [
+        "souza-annales-2017",
+        "a12-historia-1717",
+        "wiki-ns-aparecida"
+      ]
+    },
+    {
+      "label": "The finding (reported)",
+      "value": "According to the account the Church treats as official, three fishermen of Guaratinguetá — Domingos Martins Garcia, João Alves and Filipe Pedroso — were ordered to supply fish for the passage of Dom Pedro de Almeida, Count of Assumar, en route to Minas Gerais. After a fishless stretch of the river, João Alves's drag-net brought up the body of an image of Our Lady of the Conception without the head; a later cast brought up the head, and abundant fishing followed. The episode is recorded here as reported tradition, first written down forty years later.",
+      "sources": [
+        "souza-annales-2017",
+        "a12-historia-1717",
+        "gazeta-relato"
+      ]
+    },
+    {
+      "label": "Earliest attestation",
+      "value": "The earliest surviving continuous account is the 'Notícia da Aparição da Imagem da Senhora', written in August 1757 by the vicar Pe. João de Morais e Aguiar in the Primeiro Livro do Tombo of the parish of Santo Antônio de Guaratinguetá — roughly forty years after the event. Earlier layers are reported (a 1743 report by the vicar José Alves Vilela; a report 'eight years after the event' per the Diocese of Piracicaba) but the attribution is tangled in the secondary literature and no earlier text has been verified here.",
+      "sources": [
+        "lopes-anpuh-2016",
+        "gazeta-relato",
+        "piracicaba-historia"
+      ]
+    },
+    {
+      "label": "The dating",
+      "value": "The 1757 account itself opens 'No ano de 1719, pouco mais ou menos' — 'in the year 1719, more or less'. The year 1717 is a historians' correction, fixed by the shrine's historian Pe. Júlio Brustoloni CSsR from the documented passage of the Count of Assumar through Guaratinguetá in October 1717. No day is attested in any source: the shrine says 'second fortnight of October', Souza (citing Pasin) says 17 October, and the feast date of 12 October is a twentieth-century convention.",
+      "sources": [
+        "gazeta-relato",
+        "lopes-anpuh-2016",
+        "souza-annales-2017"
+      ]
+    },
+    {
+      "label": "The image",
+      "value": "Terracotta, about 36 cm tall and 2.55 kg, originally polychrome ('barro claro', with a dark-blue mantle per Brustoloni); its dark colour is attributed to years in river mud and to lamp smoke. Attribution studies point to a Paulista workshop; tradition names the Benedictine sculptor Frei Agostinho de Jesus, an attribution that lacks consensus.",
+      "sources": [
+        "lopes-anpuh-2016",
+        "wiki-ns-aparecida"
+      ]
+    },
+    {
+      "label": "The honours",
+      "value": "Canonical coronation (8 September 1904); the title of minor basilica for the old church (1908, the first in Brazil); principal Patroness of Brazil by decree of Pius XI (16 July 1930); three papal golden roses (1967, 2007, 2017); consecration of the new basilica by John Paul II (4 July 1980). Every one of these acts honours or regulates the devotion — an image, a church, a nation's patronage — and none of them adjudicates any event.",
+      "sources": [
+        "a12-historia-1900",
+        "souza-annales-2017",
+        "cnbb-rosa-2017",
+        "jpii-1980-homily"
+      ]
+    },
+    {
+      "label": "Custody",
+      "value": "Redemptorist missionaries (CSsR), brought from Bavaria at the request of the Bishop of São Paulo, took charge of the shrine on 28 October 1894; their custody continues today.",
+      "sources": [
+        "a12-redentoristas-1894",
+        "souza-annales-2017"
+      ]
+    },
+    {
+      "label": "The see",
+      "value": "The Archdiocese of Aparecida was erected on 19 April 1958 by Pius XII (apostolic constitution Sacrorum antistitum) — directly as an archdiocese, not as a diocese later elevated. It was governed by apostolic administrators until the first resident archbishop, Cardinal Carlos Carmelo de Vasconcelos Motta, was appointed in 1964.",
+      "sources": [
+        "ch-aparecida",
+        "wiki-arqdiocese"
+      ]
+    },
+    {
+      "label": "The new basilica",
+      "value": "Designed by Benedito Calixto de Jesus Neto; effective construction from 11 November 1955; a Greek cross of 188 × 183 m with a 70 m dome and a 109 m tower, about 23,000 m² of interior and a capacity of 30,000. Consecrated by John Paul II on 4 July 1980 and made cathedral of the archdiocese in November 2016. The Santuário describes itself as 'the largest shrine in the world dedicated to Mary' and Wikipédia-pt calls it the second-largest church in the world after St Peter's — both are attributed, contested metrics, never asserted here.",
+      "sources": [
+        "wiki-catedral-basilica",
+        "a12-santuario-construcao"
+      ]
+    },
+    {
+      "label": "The 1978 breakage",
+      "value": "On 16 May 1978 the image was seized during evening devotions and shattered into some 200 fragments, about 165 of them from the body. It was restored at the Museu de Arte de São Paulo (MASP) by Maria Helena Chartuni between 28 June and 31 July 1978 and returned to Aparecida.",
+      "sources": [
+        "spinfoco-restauro",
+        "wiki-ns-aparecida"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "year": 1716,
+      "date": "1716-12-22",
+      "dateVerified": true,
+      "place": "Lisbon, Portugal",
+      "title": "The Conselho Ultramarino names Dom Pedro de Almeida governor — the anchor for dating the finding",
+      "text": "A consulta of the Conselho Ultramarino names Dom Pedro de Almeida, later Count of Assumar, governor of the captaincy of São Paulo and Minas. His documented journey to take up the post — passing through Guaratinguetá in October 1717 — is the fixed point from which historians date the finding of the image, which the earliest surviving account dates only as '1719, more or less'.",
+      "sources": [
+        "souza-annales-2017"
+      ]
+    },
+    {
+      "year": 1717,
+      "date": "1717-10",
+      "dateVerified": false,
+      "dateNote": "No day is attested in any source, and the year itself is an inference. The earliest surviving account (August 1757) opens 'No ano de 1719, pouco mais ou menos' — 'in the year 1719, more or less'; 1717 is the historians' correction, fixed by Pe. Júlio Brustoloni CSsR (1979) from the Count of Assumar's documented passage through Guaratinguetá in October 1717. The Santuário says 'second fortnight of October'; Souza, citing Pasin, says 17 October; the feast date of 12 October is a twentieth-century liturgical and civil convention, not an attestation.",
+      "place": "Porto de Itaguaçu, Paraíba do Sul, Guaratinguetá, Brazil",
+      "title": "REPORTED: three fishermen net a headless image, then its head, in the Paraíba do Sul",
+      "text": "According to the account the Church treats as official, the town council of Guaratinguetá orders fish for the passage of Dom Pedro de Almeida, Count of Assumar, newly appointed governor en route to Minas Gerais. Three fishermen — Domingos Martins Garcia, João Alves and Filipe Pedroso — work a fishless stretch of the Paraíba do Sul until João Alves's drag-net brings up the body of an image of Our Lady of the Conception, without the head; a later cast brings up the head, and abundant fishing follows. Recorded here as a REPORTED event: the finding of a man-made statue, not an apparition — nothing in this case ever called for a discernment judgment, and no Church authority has ever issued one.",
+      "sources": [
+        "souza-annales-2017",
+        "gazeta-relato",
+        "a12-historia-1717"
+      ]
+    },
+    {
+      "year": 1732,
+      "date": "c. 1732",
+      "dateVerified": false,
+      "dateNote": "Approximate; the household chronology — the image with Filipe Pedroso's family from about 1717 to about 1732, then a family oratory — rests on the tradition as summarised in the academic and devotional accounts.",
+      "place": "Porto de Itaguaçu, Guaratinguetá, Brazil",
+      "title": "The image passes from the Pedroso household to a family oratory",
+      "text": "For its first years the image stays in the home of Filipe Pedroso and his family, where neighbours gather to pray before it; around 1732 it is moved to a small family oratory at Porto de Itaguaçu as the devotion outgrows the house. The reported graces and growing pilgrimage of this period are the tradition's own account, first written down in 1757.",
+      "sources": [
+        "souza-annales-2017",
+        "a12-historia-1717"
+      ]
+    },
+    {
+      "year": 1743,
+      "date": "1743",
+      "dateVerified": false,
+      "dateNote": "The 1743-vs-1757 attribution is genuinely tangled in the secondary literature. Gazeta do Povo labels essentially the same colonial text '1743, by Pe. José Alves Vilela'; popular summaries speak of two early records (one in the Aparecida curia archive, one in the Jesuit archive in Rome); the Diocese of Piracicaba invokes a report 'eight years after the event' (~1725). This dataset records August 1757 as the earliest verified attestation and this 1743 report as reported but unpinned; checking Brustoloni (1979) directly — everyone's ultimate source — is the open task.",
+      "place": "Guaratinguetá, Brazil",
+      "title": "The vicar José Alves Vilela reports the cult to episcopal authority (reported; attribution tangled)",
+      "text": "The vicar of Guaratinguetá, Pe. José Alves Vilela, is reported to have informed episcopal authority of the devotion and the graces attributed to the image, in connection with authorizing the cult and building a proper chapel. The year, the content and even the authorship of the earliest written reports differ across the secondary literature; the dataset records the report as part of the chapel's paper trail without treating any pre-1757 text as verified.",
+      "sources": [
+        "a12-historia-1717",
+        "gazeta-relato",
+        "piracicaba-historia"
+      ]
+    },
+    {
+      "year": 1745,
+      "date": "1745-07-26",
+      "dateVerified": true,
+      "place": "Morro dos Coqueiros, Aparecida, Brazil",
+      "title": "The first chapel is blessed on the Morro dos Coqueiros",
+      "text": "The chapel built by the vicar José Alves Vilela on the Morro dos Coqueiros, on land donated by Margarida Nunes Rangel, is blessed and the image is transferred to it. This is the first public church of the devotion; the town of Aparecida later grows around the site.",
+      "sources": [
+        "a12-historia-1717",
+        "souza-annales-2017",
+        "wiki-ns-aparecida"
+      ]
+    },
+    {
+      "year": 1757,
+      "date": "1757-08",
+      "dateVerified": true,
+      "place": "Guaratinguetá, Brazil",
+      "title": "Earliest surviving account: the 'Notícia' in the Livro do Tombo — forty years after the event",
+      "text": "The vicar Pe. João de Morais e Aguiar writes the 'Notícia da Aparição da Imagem da Senhora' in the Primeiro Livro do Tombo of the parish of Santo Antônio de Guaratinguetá (cited variously at f. 77v and at ff. 98–99) — the earliest surviving continuous account of the finding, written some forty years after it. It opens 'No ano de 1719, pouco mais ou menos', and it is the first surviving document to name the three fishermen. Everything earlier is reported through later tellings; everything later depends on this text.",
+      "sources": [
+        "lopes-anpuh-2016",
+        "souza-annales-2017",
+        "gazeta-relato"
+      ]
+    },
+    {
+      "year": 1834,
+      "date": "1834",
+      "dateVerified": false,
+      "dateNote": "Single-source (Wikipédia-pt); day not established.",
+      "place": "Aparecida, Brazil",
+      "title": "Construction of a larger church — the future Basílica Velha — begins",
+      "text": "Work begins on a larger church on the Morro dos Coqueiros to replace the 1745 chapel, as the pilgrimage outgrows it. The building, inaugurated in 1888, is the church later titled minor basilica in 1908 and known today as the Basílica Velha.",
+      "sources": [
+        "wiki-ns-aparecida"
+      ]
+    },
+    {
+      "year": 1868,
+      "date": "1868",
+      "dateVerified": false,
+      "dateNote": "Year per Wikipédia-pt and the Santuário's coronation retrospective; day not established in the sources reached, and the visit details rest on devotional tellings.",
+      "place": "Aparecida, Brazil",
+      "title": "Princess Isabel's first visit",
+      "text": "Princess Isabel, heiress to the Brazilian throne, visits the shrine for the first time; the devotional tradition associates the visit with her promise of a crown for the image. Her documented donation comes with the second visit, in 1888.",
+      "sources": [
+        "wiki-ns-aparecida",
+        "a12-coroacao-120"
+      ]
+    },
+    {
+      "year": 1888,
+      "date": "1888-11-06",
+      "dateVerified": true,
+      "place": "Aparecida, Brazil",
+      "title": "Princess Isabel donates the gold crown and the blue mantle",
+      "text": "On her second visit, Princess Isabel donates a crown of gold and gems and a blue mantle for the image — the crown used in the canonical coronation of 1904 and the iconography carried ever since. The donation comes months after the Lei Áurea and months before the fall of the monarchy.",
+      "sources": [
+        "wiki-ns-aparecida",
+        "a12-coroacao-120"
+      ]
+    },
+    {
+      "year": 1888,
+      "date": "1888-12-08",
+      "dateVerified": false,
+      "dateNote": "Single-source (Wikipédia-pt).",
+      "place": "Aparecida, Brazil",
+      "title": "The new church — the Basílica Velha — is solemnly inaugurated",
+      "text": "The larger church begun in 1834 is solemnly inaugurated on the feast of the Immaculate Conception, per Wikipédia-pt. It serves as the devotion's principal church until the new basilica of the twentieth century.",
+      "sources": [
+        "wiki-ns-aparecida"
+      ]
+    },
+    {
+      "year": 1894,
+      "date": "1894-10-28",
+      "dateVerified": true,
+      "place": "Aparecida, Brazil",
+      "title": "Redemptorist missionaries take charge of the shrine",
+      "text": "Redemptorists of the Bavarian province, brought to Brazil at the request of the Bishop of São Paulo and led by Pe. Gebardo Wiggermann, arrive at Aparecida and assume custody of the shrine. Their custody — pastoral care, publishing, and later a radio, television and web operation — continues today.",
+      "sources": [
+        "a12-redentoristas-1894",
+        "souza-annales-2017"
+      ]
+    },
+    {
+      "year": 1901,
+      "date": "1901",
+      "dateVerified": true,
+      "dateNote": "Year per the Santuário's coronation retrospective; the petition's details — including the signature of Archbishop Joaquim Arcoverde of Rio de Janeiro — rest on that account alone and are labeled official-devotional.",
+      "place": "Rio de Janeiro, Brazil",
+      "title": "The Brazilian episcopate petitions for a canonical coronation",
+      "text": "The Brazilian episcopate, in a petition the Santuário's account says was signed by Archbishop Joaquim Arcoverde of Rio de Janeiro, requests from the Holy See the canonical coronation of the image. A coronation is a liturgical honour for a venerated image; the petition is the start of the honour's paper trail, not of any inquiry.",
+      "sources": [
+        "a12-coroacao-120"
+      ]
+    },
+    {
+      "year": 1903,
+      "date": "1903-12-21",
+      "dateVerified": false,
+      "dateNote": "Single-source (A12). That the grant came from the Chapter of St Peter's Basilica — the body historically competent for canonical coronations — rather than from a papal decree proper is period-typical but rests on the Santuário's account alone here; some accounts say 'Pius X signed the decree'. The grant is said to have reached Aparecida on 4 February 1904.",
+      "place": "Rome",
+      "title": "The coronation is granted (per the Santuário's account, by the Chapter of St Peter's)",
+      "text": "Under Pius X, the canonical coronation of the image is granted — per the Santuário's account, by decree of the Chapter of St Peter's Basilica dated 21 December 1903, received at Aparecida on 4 February 1904. The act authorizes an honour for an image; it makes no finding about the finding.",
+      "sources": [
+        "a12-coroacao-120"
+      ]
+    },
+    {
+      "year": 1904,
+      "date": "1904-09-08",
+      "dateVerified": true,
+      "place": "Aparecida, Brazil",
+      "title": "Canonical coronation of the image",
+      "text": "Dom José de Camargo Barros, Bishop of São Paulo, crowns the image with Princess Isabel's 1888 crown, before a crowd the accounts put at some 15,000 faithful and twelve to fourteen bishops (the counts vary). Devotional secondaries assert the presence of President Rodrigues Alves, which the Santuário's main account does not mention, and accounts differ over who presided (the nuncio) versus who crowned (Camargo Barros); the dataset records the differences. A canonical coronation honours a venerated image — it presupposes the devotion and adjudicates nothing.",
+      "sources": [
+        "a12-coroacao-120",
+        "a12-historia-1900"
+      ]
+    },
+    {
+      "year": 1908,
+      "date": "1908-04-29",
+      "dateVerified": true,
+      "place": "Aparecida, Brazil",
+      "title": "Pius X grants the old church the title of minor basilica — the first in Brazil",
+      "text": "The church of Aparecida receives the title of Basílica Menor, the first in Brazil, with the solemn proclamation on site on 5 September 1909. A basilica title is an honour for a building and its worship; like every act in this chronology, it is about an object — here, a church — and not about an event.",
+      "sources": [
+        "a12-historia-1900",
+        "wiki-ns-aparecida"
+      ]
+    },
+    {
+      "year": 1930,
+      "date": "1930-07-16",
+      "dateVerified": true,
+      "dateNote": "The date and content are consistent across academic and official sources, but the decree itself is held offline in the Aparecida curia archive ('papéis avulsos', per Pasin as cited by Souza) and no online primary text has been located; it should be checkable in Acta Apostolicae Sedis 22 (1930) — a library task still open.",
+      "place": "Rome",
+      "title": "Pius XI declares Our Lady Aparecida principal Patroness of Brazil",
+      "text": "By papal decree of 16 July 1930, at the request of Cardinal Sebastião Leme — who had floated the title at the September 1929 Marian Congress, per the Santuário's account — Pius XI declares Nossa Senhora da Conceição Aparecida principal Patroness of Brazil, with all liturgical privileges. A patronage decree regulates a nation's devotion; it presupposes the cult and makes no finding about 1717.",
+      "sources": [
+        "souza-annales-2017",
+        "a12-padroeira",
+        "a12-historia-1900"
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "1931-05-31",
+      "dateVerified": true,
+      "place": "Rio de Janeiro, Brazil",
+      "title": "Brazil is solemnly consecrated to its Patroness in Rio de Janeiro",
+      "text": "The image is taken to Rio de Janeiro by special train for the solemn proclamation of the patronage; Cardinal Leme presides before a crowd put at about one million faithful, 'diante do governo e seus ministros' — before the government and its ministers — per Souza. The ceremony is the civic-religious high-water mark of the patronage, and, like the decree it celebrates, an act about a devotion.",
+      "sources": [
+        "a12-historia-1900",
+        "souza-annales-2017"
+      ]
+    },
+    {
+      "year": 1946,
+      "date": "1946-09-10",
+      "dateVerified": true,
+      "place": "Aparecida, Brazil",
+      "title": "Foundation stone of the new basilica",
+      "text": "The foundation stone of a vastly larger new basilica is laid. The Santuário's own history records that the stone was stolen that same night and re-laid in August 1954 — an anecdote resting on the shrine's telling alone.",
+      "sources": [
+        "a12-santuario-construcao"
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "1955-11-11",
+      "dateVerified": true,
+      "place": "Aparecida, Brazil",
+      "title": "Effective construction of the new basilica begins",
+      "text": "Construction of the new basilica begins in earnest to the design of Benedito Calixto de Jesus Neto: a Greek cross of 188 × 183 m, a 70 m dome, a 109 m tower, some 23,000 m² of interior and a capacity of 30,000. The building will take decades; pilgrims begin using the unfinished nave in 1959.",
+      "sources": [
+        "a12-santuario-construcao",
+        "wiki-catedral-basilica"
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "1958-04-19",
+      "dateVerified": true,
+      "place": "Aparecida, Brazil",
+      "title": "Pius XII erects the Archdiocese of Aparecida — directly as an archdiocese",
+      "text": "By the apostolic constitution Sacrorum antistitum, Pius XII erects the Archdiocese of Aparecida — directly as a metropolitan archdiocese, not as a diocese later elevated. The see is governed by apostolic administrators until 1964. The erection of a see around a shrine is an act of ecclesiastical organization; it honours the devotion's weight and judges nothing about its origin.",
+      "sources": [
+        "ch-aparecida",
+        "wiki-arqdiocese"
+      ]
+    },
+    {
+      "year": 1964,
+      "date": "1964-04-18",
+      "dateVerified": true,
+      "place": "Aparecida, Brazil",
+      "title": "First resident archbishop: Cardinal Carlos Carmelo de Vasconcelos Motta",
+      "text": "Cardinal Carlos Carmelo de Vasconcelos Motta is appointed the first resident Archbishop of Aparecida, ending the apostolic administration that had run since the see's erection in 1958. Some accounts misread 1964 as the see's elevation to archdiocese; it is the first archbishop's appointment — the see was an archdiocese from 1958.",
+      "sources": [
+        "ch-aparecida"
+      ]
+    },
+    {
+      "year": 1967,
+      "date": "1967-08-15",
+      "dateVerified": false,
+      "dateNote": "The grant of the rose for the 250th jubilee is corroborated (CNBB, Wikipédia-pt); the delivery date of 15 August 1967 and the identification of the legate rest on the Santuário's account alone and are flagged.",
+      "place": "Aparecida, Brazil",
+      "title": "Golden rose no. 1 — Paul VI, for the 250th jubilee of the finding",
+      "text": "Paul VI grants the shrine its first golden rose for the 250th anniversary of the finding, delivered — per the Santuário's account — on 15 August 1967. The golden rose is a papal honour bestowed on shrines, images and persons; it decorates a devotion and certifies nothing about its origin.",
+      "sources": [
+        "a12-rosa-paulovi",
+        "cnbb-rosa-2017",
+        "wiki-rosa-ouro"
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "1978-05-16",
+      "dateVerified": true,
+      "place": "Aparecida, Brazil",
+      "title": "The image is seized and shattered",
+      "text": "During evening devotions, Rogério Marcos de Oliveira, aged 19, seizes the image from its niche; in the struggle it falls and shatters into some 200 fragments, about 165 of them from the body. Characterizations of the perpetrator — 'Protestant iconoclast', accounts of his motives and later fate — vary across sources and are theirs, not this dataset's.",
+      "sources": [
+        "spinfoco-restauro",
+        "wiki-ns-aparecida"
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "1978-07-31",
+      "dateVerified": true,
+      "dateNote": "The restoration dates (28 June – 31 July 1978) are well-sourced; the date of the image's return to Aparecida appears as both 'mid-August' and 19 August in different tellings and is left unpinned.",
+      "place": "São Paulo, Brazil",
+      "title": "The restoration at MASP is completed",
+      "text": "Maria Helena Chartuni, head of the restoration department of the Museu de Arte de São Paulo, completes the reassembly and restoration of the shattered image — a jigsaw of some 200 fragments — begun on 28 June under director Pietro Maria Bardi. The image returns to Aparecida in an open fire-brigade car through crowds along the route.",
+      "sources": [
+        "spinfoco-restauro"
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "1980-06-30",
+      "dateVerified": true,
+      "place": "Brasília, Brazil",
+      "title": "Law 6.802/1980 makes 12 October a national holiday in honour of the Patroness",
+      "text": "Brazil's Congress enacts Law 6.802 of 30 June 1980, declaring 12 October a national holiday in honour of Nossa Senhora Aparecida, Patroness of Brazil. The holiday is the civil act that fixed 12 October in the national calendar — a date no colonial source attests for the finding itself.",
+      "sources": [
+        "souza-annales-2017"
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "1980-07-04",
+      "dateVerified": true,
+      "place": "Aparecida, Brazil",
+      "title": "John Paul II consecrates the new basilica",
+      "text": "On the first papal visit to the shrine, John Paul II consecrates the new basilica — 'I come, therefore, to consecrate this Basilica', his homily says — and the building receives the title of minor basilica. The homily retells the finding of 1717 and recalls the 1978 breakage and restoration. A consecration dedicates a building for worship; the pope's retelling of the tradition is a devotional act, not a historical finding.",
+      "sources": [
+        "jpii-1980-homily",
+        "wiki-catedral-basilica"
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1983 or 1984",
+      "dateVerified": false,
+      "dateNote": "Wikipédia-pt and most secondaries date the CNBB declaration 1984; the Santuário's own construction-history page says 1983; no primary CNBB act has been located online. Both candidates are recorded and the discrepancy is left unresolved.",
+      "place": "Aparecida, Brazil",
+      "title": "The CNBB declares the basilica the National Shrine (1983/1984 — act and date unpinned)",
+      "text": "The National Conference of Bishops of Brazil declares the new basilica the National Shrine of Nossa Senhora Aparecida. The declaration is well-attested in secondary accounts but the primary act has not been located, and the year itself is disputed between the shrine's own page (1983) and most other accounts (1984).",
+      "sources": [
+        "wiki-catedral-basilica",
+        "a12-santuario-construcao"
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "2007-05-13",
+      "dateVerified": true,
+      "dateNote": "The Mass and the inauguration of the CELAM conference on 13 May are vatican.va's own record; the presentation of the golden rose on 12 May rests on Wikipédia-pt.",
+      "place": "Aparecida, Brazil",
+      "title": "Benedict XVI at Aparecida: golden rose no. 2 and the opening of CELAM's Fifth General Conference",
+      "text": "Benedict XVI visits the shrine, presents its second golden rose (12 May, per Wikipédia-pt), and on 13 May celebrates Mass inaugurating the Fifth General Conference of the Latin American and Caribbean bishops (CELAM), which meets at the shrine until 31 May and produces the 'Aparecida Document'. The document is the conference's conclusions on evangelization, drafted at the shrine — not an act about the image.",
+      "sources": [
+        "bxvi-2007-homily",
+        "wiki-rosa-ouro",
+        "wiki-catedral-basilica"
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "2013-07-24",
+      "dateVerified": true,
+      "place": "Aparecida, Brazil",
+      "title": "Francis celebrates Mass at the shrine during World Youth Day Rio",
+      "text": "In his first international journey, Francis comes to Aparecida during World Youth Day Rio, celebrates Mass in the basilica, recalls the fishermen of the tradition and the 2007 conference at which he had led the drafting committee, and entrusts his pontificate to Our Lady of Aparecida.",
+      "sources": [
+        "francis-2013-homily"
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "2016-11",
+      "dateVerified": false,
+      "dateNote": "Month per Wikipédia-pt; single-source, day not established.",
+      "place": "Aparecida, Brazil",
+      "title": "The new basilica becomes the cathedral of the archdiocese",
+      "text": "The national shrine's basilica is made the cathedral of the Archdiocese of Aparecida, uniting the metropolitan see and the national shrine in one church.",
+      "sources": [
+        "wiki-catedral-basilica"
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "2017-10-09",
+      "dateVerified": true,
+      "place": "Aparecida, Brazil",
+      "title": "Golden rose no. 3 — sent by Francis for the tercentenary",
+      "text": "A golden rose sent by Francis for the tercentenary of the finding is delivered by the cardinal legate Giovanni Battista Re to Archbishop Orlando Brandes. It is the shrine's third — 1967, 2007, 2017 — and was exceptional in its year, Fátima having received 2017's rose on 13 May; like the others, it honours a shrine and adjudicates nothing.",
+      "sources": [
+        "cnbb-rosa-2017",
+        "ebc-rosa-2017"
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "2017-10-12",
+      "dateVerified": true,
+      "place": "Aparecida, Brazil",
+      "title": "The tercentenary: Francis's video message to Brazil",
+      "text": "On the conventional feast, the tercentenary of the finding is celebrated at the National Shrine, with Cardinal Giovanni Battista Re presiding as pontifical delegate and a video message from Francis to the Brazilian people — 'confiando-lhe o meu pontificado', entrusting his pontificate to the Patroness once more. Wikipédia-pt puts the jubilee year's visitors at about 13 million.",
+      "sources": [
+        "francis-2017-message",
+        "wiki-catedral-basilica"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Domingos Martins Garcia, João Alves and Filipe Pedroso",
+      "role": "The three fishermen of Guaratinguetá to whom the reported finding of 1717 is attributed — João Alves credited with netting the image, Filipe Pedroso's family its first custodians for some fifteen years. Attestation caveat: they are named only in the 1757 Livro do Tombo account, written forty years after the event; Brustoloni (1979) verified their existence in Guaratinguetá baptism and marriage registers, per Lopes. Their existence is documented; the fishing episode is the reported tradition",
+      "country": "Brazil",
+      "sources": [
+        "lopes-anpuh-2016",
+        "souza-annales-2017",
+        "a12-historia-1717"
+      ]
+    },
+    {
+      "name": "Pe. João de Morais e Aguiar",
+      "role": "Vicar of Guaratinguetá; author of the 'Notícia da Aparição da Imagem da Senhora' (August 1757) in the parish's Primeiro Livro do Tombo — the earliest surviving continuous account of the finding, and the text every later telling depends on",
+      "country": "Brazil",
+      "sources": [
+        "lopes-anpuh-2016",
+        "souza-annales-2017"
+      ]
+    },
+    {
+      "name": "Pe. José Alves Vilela",
+      "role": "Vicar of Guaratinguetá; builder of the first chapel, blessed 26 July 1745; associated in parts of the secondary literature with a 1743 report to episcopal authority on the cult — an attribution tangled with the 1757 text and not resolved here",
+      "country": "Brazil",
+      "sources": [
+        "a12-historia-1717",
+        "gazeta-relato",
+        "piracicaba-historia"
+      ]
+    },
+    {
+      "name": "Frei Agostinho de Jesus",
+      "role": "Benedictine sculptor of colonial São Paulo to whom tradition attributes the image. Attribution studies (Pedro de Oliveira Ribeiro Netto, 1967/1970; Brustoloni, 1979) point to a Paulista workshop; the attribution to Frei Agostinho specifically lacks consensus, and the dataset records it as tradition",
+      "country": "Brazil",
+      "sources": [
+        "wiki-ns-aparecida",
+        "lopes-anpuh-2016"
+      ]
+    },
+    {
+      "name": "Princess Isabel",
+      "role": "Heiress to the Brazilian throne; visited the shrine in 1868 and again on 6 November 1888, donating the gold-and-gems crown and blue mantle used in the 1904 canonical coronation",
+      "dates": "1846–1921",
+      "country": "Brazil",
+      "sources": [
+        "wiki-ns-aparecida",
+        "a12-coroacao-120"
+      ]
+    },
+    {
+      "name": "Cardinal Sebastião Leme",
+      "role": "Archbishop of Rio de Janeiro; proposed the patroness title at the September 1929 Marian Congress (per the Santuário's account), obtained the decree of Pius XI of 16 July 1930, and presided over the solemn consecration of Brazil to the Patroness in Rio on 31 May 1931",
+      "dates": "1882–1942",
+      "country": "Brazil",
+      "sources": [
+        "souza-annales-2017",
+        "a12-historia-1900",
+        "a12-padroeira"
+      ]
+    },
+    {
+      "name": "Cardinal Carlos Carmelo de Vasconcelos Motta",
+      "role": "First resident Archbishop of Aparecida, appointed 18 April 1964 after the see — erected directly as an archdiocese in 1958 — had been under apostolic administration; governed until 1982",
+      "country": "Brazil",
+      "sources": [
+        "ch-aparecida"
+      ]
+    },
+    {
+      "name": "Benedito Calixto de Jesus Neto",
+      "role": "Architect of the new basilica, designed in the mid-1950s and under effective construction from 11 November 1955; grandson and namesake of the painter Benedito Calixto",
+      "country": "Brazil",
+      "sources": [
+        "wiki-catedral-basilica",
+        "a12-santuario-construcao"
+      ]
+    },
+    {
+      "name": "Maria Helena Chartuni",
+      "role": "Head of the restoration department of the Museu de Arte de São Paulo (MASP); restored the shattered image between 28 June and 31 July 1978, under director Pietro Maria Bardi — a documented museum restoration, and the best-sourced individual act in this chronology",
+      "country": "Brazil",
+      "sources": [
+        "spinfoco-restauro"
+      ]
+    },
+    {
+      "name": "Pe. Júlio J. Brustoloni, CSsR",
+      "role": "Redemptorist historian of the shrine; his 'História de Nossa Senhora da Conceição Aparecida' (1979) is the scholarly baseline for the 1717 dating — correcting the 1757 account's '1719, more or less' from the Count of Assumar's itinerary — and for the documentation of the fishermen in parish registers. He is nearly every secondary account's ultimate source, and consulting his book directly is this project's open task",
+      "country": "Brazil",
+      "sources": [
+        "lopes-anpuh-2016",
+        "gazeta-relato"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Santuário Nacional de Nossa Senhora Aparecida",
+      "founded": "First chapel blessed 1745; Basílica Velha inaugurated 1888; new basilica consecrated 1980; declared National Shrine by the CNBB in 1983 or 1984 (unresolved)",
+      "place": "Aparecida, São Paulo, Brazil",
+      "relation": "The Redemptorist-run national shrine that keeps the image. It describes itself as 'the largest shrine in the world dedicated to Mary' — the Santuário's own claim, echoed by Church-adjacent sources, on a contested metric this dataset attributes and does not assert. Wikipédia-pt reports about 13 million visitors in the 2017 jubilee year.",
+      "sources": [
+        "a12-santuario-construcao",
+        "wiki-catedral-basilica"
+      ]
+    },
+    {
+      "name": "Redemptorists (Congregation of the Most Holy Redeemer, CSsR)",
+      "founded": "1732, Scala, Italy; at Aparecida since 28 October 1894",
+      "place": "Aparecida, São Paulo, Brazil",
+      "relation": "Custodians of the shrine since 28 October 1894, when missionaries of the Bavarian province arrived at the request of the Bishop of São Paulo; the São Paulo province continues the custody today, with a publishing and media apostolate that runs from the early Jornal Santuário to Rádio Aparecida, TV Aparecida and A12.com.",
+      "sources": [
+        "a12-redentoristas-1894",
+        "souza-annales-2017"
+      ]
+    },
+    {
+      "name": "Archdiocese of Aparecida",
+      "founded": "19 April 1958, by Pius XII (apostolic constitution Sacrorum antistitum)",
+      "place": "Aparecida, São Paulo, Brazil",
+      "relation": "The metropolitan see erected around the shrine — directly as an archdiocese in 1958, not a diocese later elevated; 1964 is the arrival of the first resident archbishop, Cardinal Carlos Carmelo de Vasconcelos Motta, not an elevation. Its suffragans are Caraguatatuba, Lorena, São José dos Campos and Taubaté, and since November 2016 the shrine's basilica is its cathedral.",
+      "sources": [
+        "ch-aparecida",
+        "wiki-arqdiocese",
+        "wiki-catedral-basilica"
+      ]
+    },
+    {
+      "name": "A12.com / Rádio Aparecida / TV Aparecida",
+      "founded": "Rádio Aparecida 1951; TV Aparecida 2005; A12.com as the shrine's web portal",
+      "place": "Aparecida, São Paulo, Brazil",
+      "relation": "The shrine's Redemptorist media operation — 'A12' for the woman of Apocalypse 12. A12.com is the devotion's official web voice and the single largest source of institutional detail in this dataset; it is cited throughout as official-devotional, and dates resting on it alone are flagged as such.",
+      "sources": [
+        "souza-annales-2017",
+        "a12-historia-1717"
+      ]
+    },
+    {
+      "name": "CNBB — Conferência Nacional dos Bispos do Brasil",
+      "founded": "1952",
+      "place": "Brasília, Brazil",
+      "relation": "The Brazilian bishops' conference. The episcopate's collective devotion to Aparecida predates it — the 1901 coronation petition was the bishops' act half a century before the conference existed — and the CNBB continued the line: it declared the basilica the National Shrine (1983 or 1984; the primary act is unlocated), and its news service documents the 2017 golden rose. A conference honours and organizes a devotion; it issues no discernment judgment here, and none exists to issue.",
+      "sources": [
+        "cnbb-rosa-2017",
+        "wiki-catedral-basilica",
+        "a12-coroacao-120"
+      ]
+    },
+    {
+      "name": "CELAM — Consejo Episcopal Latinoamericano",
+      "founded": "1955",
+      "place": "Bogotá, Colombia",
+      "relation": "The Latin American and Caribbean bishops' council, whose Fifth General Conference met at the shrine from 13 to 31 May 2007, inaugurated by Benedict XVI. Its conclusions — the 'Aparecida Document', whose drafting committee was chaired by the future Pope Francis — are a conference document on evangelization drafted at the shrine, not an act about the image; the cross-link exists because the document's name and the devotion's are constantly conflated.",
+      "sources": [
+        "bxvi-2007-homily",
+        "wiki-catedral-basilica"
+      ]
+    }
+  ],
+  "disambiguation": {
+    "note": "'Aparecida' does a lot of work in Portuguese and in Church documents — it can name an image, a devotion, a shrine, a see, a city and a conference document. The distinctions below are the ones most often flattened.",
+    "items": [
+      {
+        "title": "Not an apparition case — and the discernment Norms do not even apply",
+        "text": "Nothing 'appeared' at Aparecida except a statue in a fisherman's net: 'Aparecida' names the image, not a vision, and in three centuries no apparition, locution or other phenomenon has been reported for any authority to judge. There is therefore no discernment judgment anywhere in this case, and none is missing. The Dicastery for the Doctrine of the Faith's 'Norms for Proceeding in the Discernment of Alleged Supernatural Phenomena' (17 May 2024) govern alleged supernatural phenomena — and the finding of a man-made image is not one, so the Norms have nothing to bite on here. Their art. 23, which states that as a rule neither bishops nor conferences nor the Dicastery declare such phenomena supernatural even in genuine cases, applies a fortiori: a chronology that reported a 'Church approval of the apparition of Aparecida' would be misreporting both this case and the Church's own rules.",
+        "sources": [
+          "ddf-norms-2024",
+          "souza-annales-2017"
+        ]
+      },
+      {
+        "title": "Honours regulate worship; they authenticate nothing",
+        "text": "The 1904 canonical coronation, the basilica titles of 1908 and 1980, the 1930 patronage decree, the golden roses of 1967, 2007 and 2017, and the consecrations of 1931 and 1980 are all acts about named objects — an image, a church, a nation's patronage. Each presupposes the devotion it honours and regulates the worship around it; none investigates or certifies the events of 1717. The Church grants the same acts to devotions with no reported event behind them at all — Our Lady of the Rosary and Our Lady of Mount Carmel have feasts, crowned images and basilicas, and there is nothing there to 'approve'. Reading Aparecida's honour ladder as an accumulating verdict gets the acts wrong one by one.",
+        "sources": [
+          "ddf-norms-2024",
+          "souza-annales-2017",
+          "jpii-1980-homily"
+        ]
+      },
+      {
+        "title": "The earliest account is from 1757, says '1719, more or less', and names no day",
+        "text": "The devotion's own literature states the finding as 'October 1717' and the calendar says 12 October. What the record supports is narrower: the earliest surviving continuous account was written in August 1757 — forty years after the event — and opens 'No ano de 1719, pouco mais ou menos'; the year 1717 is a historians' inference from the Count of Assumar's documented itinerary; and no source attests a day, with the shrine saying 'second fortnight of October', one scholar's chain saying 17 October, and 12 October fixed by twentieth-century liturgical and civil acts, most visibly Law 6.802/1980. The date on the calendar is a convention honouring an event, not a record of it.",
+        "sources": [
+          "gazeta-relato",
+          "lopes-anpuh-2016",
+          "souza-annales-2017"
+        ]
+      },
+      {
+        "title": "Aparecida the city, the image, the shrine and the see",
+        "text": "The town of Aparecida (SP) grew around the shrine on the Morro dos Coqueiros and was emancipated from Guaratinguetá in 1928; the Archdiocese of Aparecida dates from 1958; the National Shrine title from the 1980s. 'Aparecida' in a Church document may therefore denote the image, the devotion, the shrine building, the see or the city, and acts about one are routinely misread as acts about another — a basilica title is about a building, a patronage decree about a nation's devotion, an apostolic constitution about a see.",
+        "sources": [
+          "wiki-ns-aparecida",
+          "wiki-arqdiocese",
+          "ch-aparecida"
+        ]
+      },
+      {
+        "title": "The 'Aparecida Document' (2007) is CELAM's, not an act about the image",
+        "text": "The 'Aparecida Document' is the concluding document of the Fifth General Conference of the Latin American and Caribbean bishops (CELAM), which met at the shrine from 13 to 31 May 2007. It is a programmatic text on evangelization — famous partly because the future Pope Francis chaired its drafting — that happens to be named for the place where it was written. It is not a judgment, honour or statement about the image or the events of 1717, and citations of 'Aparecida' in later magisterial texts are citations of the conference document.",
+        "sources": [
+          "bxvi-2007-homily",
+          "wiki-catedral-basilica"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "a12-historia-1717",
+      "title": "História de Nossa Senhora Aparecida — 1717",
+      "url": "https://www.a12.com/santuario/historia-de-nossa-senhora-aparecida-1717",
+      "publisher": "Santuário Nacional / A12",
+      "type": "web",
+      "publisherNote": "The shrine's own account of the finding and the eighteenth century — official-devotional, the devotion's voice about itself. Primary for what the Santuário asserts; never treated as independent corroboration."
+    },
+    {
+      "id": "a12-historia-1900",
+      "title": "História de Nossa Senhora Aparecida — 1900",
+      "url": "https://www.a12.com/santuario/historia-de-nossa-senhora-aparecida-1900",
+      "publisher": "Santuário Nacional / A12",
+      "type": "web",
+      "publisherNote": "The shrine's own account of the twentieth-century honours — official-devotional. Sole source for the 1929 Leme proposal; used with academic cross-checks for 1904, 1908 and 1931."
+    },
+    {
+      "id": "a12-santuario-construcao",
+      "title": "Santuário Nacional de Nossa Senhora Aparecida — história da construção",
+      "url": "https://www.a12.com/santuario/santuario-nacional-de-nossa-senhora-aparecida",
+      "publisher": "Santuário Nacional / A12",
+      "type": "web",
+      "publisherNote": "The shrine's construction history — official-devotional. Sole source for the foundation-stone story; the page that dates the National Shrine declaration 1983 against most secondaries' 1984. Carries the Santuário's 'largest Marian shrine in the world' self-description, always attributed here."
+    },
+    {
+      "id": "a12-coroacao-120",
+      "title": "Há 120 anos, Nossa Senhora Aparecida recebeu a coroação pontifícia",
+      "url": "https://www.a12.com/familiadosdevotos/revistadeaparecida/ha-120-anos-nossa-senhora-aparecida-recebeu-a-coroacao-pontificia",
+      "publisher": "Revista de Aparecida / A12",
+      "type": "web",
+      "publisherNote": "The shrine's magazine on the 1904 coronation — official-devotional, and the sole source for the 1901 petition details and the 21 December 1903 grant by the Chapter of St Peter's."
+    },
+    {
+      "id": "a12-rosa-paulovi",
+      "title": "Papa Paulo VI: o beato que ofereceu a primeira Rosa de Ouro ao Santuário de Aparecida",
+      "url": "https://www.a12.com/santuario/noticias/papa-paulo-vi-o-beato-que-ofereceu-a-primeira-rosa-de-ouro-ao-santuario-de-aparecida",
+      "publisher": "Santuário Nacional / A12",
+      "type": "web",
+      "publisherNote": "The shrine's account of the 1967 golden rose — official-devotional; sole source for the delivery date and legate details, which are flagged in the event."
+    },
+    {
+      "id": "a12-redentoristas-1894",
+      "title": "Como e quando os Missionários Redentoristas chegaram a Aparecida",
+      "url": "https://www.a12.com/redentoristas/noticias/como-e-quando-os-missionarios-redentoristas-chegaram-a-aparecida",
+      "publisher": "Santuário Nacional / A12",
+      "type": "web",
+      "publisherNote": "The Redemptorists' own account of their 1894 arrival — official-devotional, corroborated on the date by the academic literature."
+    },
+    {
+      "id": "a12-padroeira",
+      "title": "Por que Nossa Senhora Aparecida é Padroeira do Brasil?",
+      "url": "https://www.a12.com/academia/artigos/por-que-nossa-senhora-aparecida-e-padroeira-do-brasil",
+      "publisher": "Academia Marial / A12",
+      "type": "web",
+      "publisherNote": "The shrine's Marian academy on the 1930 patronage — official-devotional, used alongside the academic account for the decree's date and Cardinal Leme's role."
+    },
+    {
+      "id": "souza-annales-2017",
+      "title": "Aparecida: aspectos históricos de uma devoção",
+      "url": "https://faje.edu.br/periodicos/index.php/annales/article/download/3864/3928/12867",
+      "publisher": "Ney de Souza — Annales, FAJE, Belo Horizonte, v. 2, n. 4, 2017",
+      "type": "academic",
+      "publisherNote": "Peer academic article by a PUC-SP church historian — the strongest single source reached for this dataset; quotes the Livro do Tombo text in full and carries the 1930–31 patronage sequence with citations to Pasin and Brustoloni."
+    },
+    {
+      "id": "lopes-anpuh-2016",
+      "title": "A Santa na foto: fotografia e devoção a Nossa Senhora Aparecida",
+      "url": "http://www.encontro2016.sp.anpuh.org/resources/anais/48/1462548314_ARQUIVO_ASANTANAFOTO.pdf",
+      "publisher": "André Camargo Lopes — Anais do XXIII Encontro Estadual de História, ANPUH-SP, 2016",
+      "type": "academic",
+      "publisherNote": "Conference paper; carries the Brustoloni citations this dataset leans on for the 1757 'Notícia', the image's material description and the fishermen's documentation in parish registers. Served over plain http."
+    },
+    {
+      "id": "gazeta-relato",
+      "title": "Leia o relato mais antigo sobre o milagre de Nossa Senhora Aparecida",
+      "url": "https://www.gazetadopovo.com.br/ideias/leia-o-relato-mais-antigo-sobre-o-milagre-de-nossa-senhora-aparecida/",
+      "publisher": "Gazeta do Povo",
+      "type": "news",
+      "publisherNote": "Mainstream Brazilian press; transcribes the colonial text, including the '1719, pouco mais ou menos' opening. Labels the text '1743, by Pe. José Alves Vilela' — one side of the attribution tangle this dataset records rather than resolves."
+    },
+    {
+      "id": "piracicaba-historia",
+      "title": "História da devoção a Nossa Senhora Aparecida",
+      "url": "https://diocesedepiracicaba.org.br/capa.asp?p=461",
+      "publisher": "Diocese de Piracicaba",
+      "type": "official",
+      "publisherNote": "A diocesan devotional history — confessional; its claim of a report 'eight years after the event' (~1725) underlying the 1757 entry is one strand of the attestation tangle, recorded as its account."
+    },
+    {
+      "id": "spinfoco-restauro",
+      "title": "O quebra-cabeça de 200 peças: o restauro da imagem de Nossa Senhora no MASP",
+      "url": "https://www.saopauloinfoco.com.br/restauro-nossa-senhora/",
+      "publisher": "São Paulo In Foco",
+      "type": "web",
+      "publisherNote": "A São Paulo city-history site — independent of the shrine, and the most detailed reachable account of the 1978 breakage and the MASP restoration."
+    },
+    {
+      "id": "wiki-ns-aparecida",
+      "title": "Nossa Senhora da Conceição Aparecida",
+      "url": "https://pt.wikipedia.org/wiki/Nossa_Senhora_da_Concei%C3%A7%C3%A3o_Aparecida",
+      "publisher": "Wikipédia (pt)",
+      "type": "encyclopedia",
+      "publisherNote": "Crowd-sourced; used for cross-checks and for dates no better source was reached for, each flagged single-source where it stands alone. Notes that the Frei Agostinho attribution 'lacks consensus'."
+    },
+    {
+      "id": "wiki-catedral-basilica",
+      "title": "Catedral Basílica de Nossa Senhora Aparecida",
+      "url": "https://pt.wikipedia.org/wiki/Catedral_Bas%C3%ADlica_de_Nossa_Senhora_Aparecida",
+      "publisher": "Wikipédia (pt)",
+      "type": "encyclopedia",
+      "publisherNote": "Crowd-sourced; used for the building's dimensions and chronology, the 1984 National Shrine dating (against the shrine's 1983), the 2016 cathedral change and the 'second-largest church' claim — the last always attributed, never asserted."
+    },
+    {
+      "id": "wiki-arqdiocese",
+      "title": "Arquidiocese de Aparecida",
+      "url": "https://pt.wikipedia.org/wiki/Arquidiocese_de_Aparecida",
+      "publisher": "Wikipédia (pt)",
+      "type": "encyclopedia",
+      "publisherNote": "Crowd-sourced; cross-checks Catholic-Hierarchy on the see's 1958 erection directly as an archdiocese."
+    },
+    {
+      "id": "wiki-rosa-ouro",
+      "title": "Rosa de Ouro",
+      "url": "https://pt.wikipedia.org/wiki/Rosa_de_Ouro_(condecora%C3%A7%C3%A3o)",
+      "publisher": "Wikipédia (pt)",
+      "type": "encyclopedia",
+      "publisherNote": "Crowd-sourced list of golden-rose grants; corroborates the three Aparecida roses and dates Benedict XVI's 2007 presentation to 12 May."
+    },
+    {
+      "id": "ch-aparecida",
+      "title": "Archdiocese of Aparecida",
+      "url": "https://www.catholic-hierarchy.org/diocese/dapar.html",
+      "publisher": "Catholic-Hierarchy.org",
+      "type": "database",
+      "publisherNote": "An independent reference database of dioceses and ordinaries compiled from the Holy See's published notices; the source for the see's erection date, its erection directly as an archdiocese, and the succession of archbishops."
+    },
+    {
+      "id": "cnbb-rosa-2017",
+      "title": "Papa Francisco concede a terceira Rosa de Ouro ao Santuário Nacional",
+      "url": "https://www.cnbb.org.br/papa-francisco-concede-terceira-rosa-de-ouro-ao-santuario-nacional/",
+      "publisher": "CNBB — Conferência Nacional dos Bispos do Brasil",
+      "type": "official",
+      "publisherNote": "The bishops' conference's news service — institutional Church perspective; primary for the conference's own reporting of the 2017 rose and its count of the three roses."
+    },
+    {
+      "id": "ebc-rosa-2017",
+      "title": "Papa Francisco envia Rosa de Ouro ao santuário pelos 300 anos de Aparecida",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2017-10/papa-francisco-rosa-de-ouro-santuario-300-anos-de-aparecida",
+      "publisher": "Agência Brasil (EBC)",
+      "type": "news",
+      "publisherNote": "Brazil's state news agency — secular coverage of the 2017 tercentenary acts."
+    },
+    {
+      "id": "jpii-1980-homily",
+      "title": "Homily at the Mass in the Basilica of Aparecida, 4 July 1980",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/homilies/1980/documents/hf_jp-ii_hom_19800704_aparecida-brazil.html",
+      "publisher": "vatican.va — Holy See",
+      "type": "official",
+      "publisherNote": "The act itself: John Paul II's consecration homily, primary for the consecration's date and words. His retelling of 1717 within it is devotional narration, not a historical finding."
+    },
+    {
+      "id": "bxvi-2007-homily",
+      "title": "Homily at the inauguration of the Fifth General Conference of the Bishops of Latin America and the Caribbean, Aparecida, 13 May 2007",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/homilies/2007/documents/hf_ben-xvi_hom_20070513_conference-brazil.html",
+      "publisher": "vatican.va — Holy See",
+      "type": "official",
+      "publisherNote": "The act itself: Benedict XVI's homily opening the CELAM conference at the shrine — primary for the visit and the conference's inauguration."
+    },
+    {
+      "id": "francis-2013-homily",
+      "title": "Homily at the Shrine of Our Lady of the Conception of Aparecida, 24 July 2013",
+      "url": "https://www.vatican.va/content/francesco/en/homilies/2013/documents/papa-francesco_20130724_gmg-omelia-aparecida.html",
+      "publisher": "vatican.va — Holy See",
+      "type": "official",
+      "publisherNote": "The act itself: Francis's homily at the shrine during World Youth Day Rio — primary for the visit's date and words."
+    },
+    {
+      "id": "francis-2017-message",
+      "title": "Videomensagem do Papa Francisco ao povo brasileiro pelos 300 anos do encontro da imagem de Nossa Senhora Aparecida, 12 October 2017",
+      "url": "https://www.vatican.va/content/francesco/pt/messages/pont-messages/2017/documents/papa-francesco_20171012_videomessaggio-popolo-brasiliano.html",
+      "publisher": "vatican.va — Holy See",
+      "type": "official",
+      "publisherNote": "The act itself: Francis's tercentenary video message — primary for its date and words, including the renewed entrustment of his pontificate."
+    },
+    {
+      "id": "ddf-norms-2024",
+      "title": "Norms for Proceeding in the Discernment of Alleged Supernatural Phenomena (17 May 2024)",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html",
+      "publisher": "Dicastery for the Doctrine of the Faith, Holy See",
+      "type": "official",
+      "publisherNote": "The Church's current procedure for judging reported supernatural phenomena. Cited here for the rule it states — and for the fact that it does not apply: the finding of a man-made image is not an alleged supernatural phenomenon, so this case has no discernment file for these Norms to govern."
+    }
+  ]
+}
